@@ -1,0 +1,13 @@
+
+
+
+### Send a user message to the assistant thread
+POST http://127.0.0.1:8000/chat
+Content-Type: application/json
+
+{
+  "thread_id": "thread_CDPOj7XC2Ti3ERIhIpZQNzo4",
+  "message": "Hello, how can I get started with AI?"
+}
+
+### Send a user message to the assistant thread
